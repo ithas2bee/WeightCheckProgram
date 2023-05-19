@@ -1,0 +1,15 @@
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\bin\Debug\net6.0\WeightCheckProgram.exe
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\bin\Debug\net6.0\WeightCheckProgram.deps.json
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\bin\Debug\net6.0\WeightCheckProgram.runtimeconfig.json
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\bin\Debug\net6.0\WeightCheckProgram.dll
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\bin\Debug\net6.0\WeightCheckProgram.pdb
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.csproj.AssemblyReference.cache
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.AssemblyInfoInputs.cache
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.AssemblyInfo.cs
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.csproj.CoreCompileInputs.cache
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.dll
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\refint\WeightCheckProgram.dll
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.pdb
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\WeightCheckProgram.genruntimeconfig.cache
+C:\Users\14703\source\repos\WeightCheckProgram\WeightCheckProgram\obj\Debug\net6.0\ref\WeightCheckProgram.dll

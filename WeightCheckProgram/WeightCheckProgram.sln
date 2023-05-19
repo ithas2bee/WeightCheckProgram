@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightCheckProgram", "WeightCheckProgram\WeightCheckProgram.csproj", "{44D326A3-6C4C-4DA6-9380-704494F2C4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D326A3-6C4C-4DA6-9380-704494F2C4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D326A3-6C4C-4DA6-9380-704494F2C4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D326A3-6C4C-4DA6-9380-704494F2C4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D326A3-6C4C-4DA6-9380-704494F2C4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27B57C2-7829-40BF-B3B4-1312B6E923D1}
+	EndGlobalSection
+EndGlobal
